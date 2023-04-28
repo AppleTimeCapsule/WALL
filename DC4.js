@@ -1,8 +1,8 @@
  // 修改veid和api_key
 
 let config = {
-    veid: 
-    api_key: 
+    veid: 1187348, // 填你的veid
+    api_key: "private_s43h0khQ5PxXDdqhnNEm434K"
 };
 
 const $tool = tool();
